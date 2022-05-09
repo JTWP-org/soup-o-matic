@@ -36,4 +36,4 @@ $FILELOC/discord.sh \
   --webhook-url="$WEBHOOKURL" \
   --username "NotificationBot" \
   --avatar "https://i.imgur.com/12jyR5Q.png" \
-  --text "Logs Logged !"
+  --text "today's JTWP soup of the day is `$choice`"
