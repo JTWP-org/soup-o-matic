@@ -15,6 +15,6 @@ this will trigger it every day at 7am <br><br>
 
 <p>
 <h3>update soup list</h3> 
-go to soup folder then issue 
+go to soup folder then issue <br>
 `git pull`<br>
 </p>
