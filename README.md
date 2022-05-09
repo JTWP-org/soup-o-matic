@@ -25,3 +25,6 @@ this will trigger it every day at 7am <br><br>
 
 go to soup folder then issue 
 `git pull`
+
+
+<h2>webhook section of code from https://github.com/ChaoticWeg/discord.sh</h2>
