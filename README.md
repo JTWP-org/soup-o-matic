@@ -1,5 +1,5 @@
 automates soup of the day for JTWP 
-<p>
+
 <h3>install </h3>
 first get files<br>
 `git clone https://github.com/JTWP-org/soup-o-matic.git`<br>
@@ -10,11 +10,11 @@ set up cronjob <br>
 add line <br>
 `0 7 * * * bash /ADD FULL FILE LOCATION HERE/soup-o-matic/soup.sh`<br>
 this will trigger it every day at 7am <br><br>
-</p>
 
 
-<p>
+
+
 <h3>update soup list</h3> 
 go to soup folder then issue <br>
-`git pull`<br>
-</p>
+git pull<br>
+
