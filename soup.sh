@@ -3,7 +3,7 @@
 #config here with these variables
 
 ###############################################################
-WEBHOOKURL='https://canary.discord.com/api/webhooks/967407890803597332/5LtxTlnRpfjyc25KJKEt2XfKw2HsSz3WAx63t-lzGaHcwGXJzGUevZqEAYSqqw6y8fRO'
+WEBHOOKURL='WEBhookURLhere'
 #Webhooks urls can be got from discord server
 
 FILELOC='/home/steam/soup'
