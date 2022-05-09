@@ -46,4 +46,3 @@ todays_JTWP_soup_of_the_day_is_Gingery_Wonton_Soup_https://www.rachaelraymag.com
 todays_JTWP_soup_of_the_day_is_Chili_Chicken_&_Vegetable_Soup_https://www.rachaelraymag.com/recipe/chili-chicken-and-vegetable-soup
 todays_JTWP_soup_of_the_day_is_Pork_&_Ginger_Noodle_Soup_https://www.rachaelraymag.com/recipe/pork-and-ginger-noodle-soup
 todays_JTWP_soup_of_the_day_is_Butternut_Squash_Soup_https://www.rachaelraymag.com/recipe/butternut-squash-soup-2
-test
